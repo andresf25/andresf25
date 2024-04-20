@@ -18,6 +18,11 @@
 
 📫 Puedes contactarme a través de [tu correo electrónico] para colaboraciones, consultas o charlas sobre datos y educación.
 
+### Herramientas en las que me destaco:
+![Python](https://img.shields.io/badge/python_3.8)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
+
 😄 Mis pronombres son [tus pronombres].
 
 ⚡ Dato curioso: Cuando no estoy inmerso en datos o enseñando, me encanta dedicar mi tiempo libre a dibujar retratos realistas.
