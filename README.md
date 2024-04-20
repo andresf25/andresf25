@@ -1,3 +1,7 @@
+# Hola
+## Mucho gusto
+### Soy Andres Gonzalez
+
 👋 ¡Hola! Soy Andrés González, un apasionado ingeniero de datos y educador, ¡y me encanta dibujar retratos en mi tiempo libre! Aquí tienes un vistazo rápido a quién soy:
 
 🔭 Actualmente estoy trabajando en proyectos de ingeniería de datos para optimizar el flujo de información en diferentes industrias.
