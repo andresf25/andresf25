@@ -1,11 +1,17 @@
 👋 ¡Hola! Soy Andrés González, un apasionado ingeniero de datos y educador, ¡y me encanta dibujar retratos en mi tiempo libre! Aquí tienes un vistazo rápido a quién soy:
 
 🔭 Actualmente estoy trabajando en proyectos de ingeniería de datos para optimizar el flujo de información en diferentes industrias.
+
 🌱 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades como ingeniero de datos y educador.
+
 👯 Estoy buscando colaborar en proyectos relacionados con análisis de datos, visualización y educación en tecnología.
+
 💬 Pregúntame sobre técnicas de procesamiento de datos, herramientas de visualización o cualquier cosa relacionada con la enseñanza de la ciencia de datos.
+
 📫 Puedes contactarme a través de [tu correo electrónico] para colaboraciones, consultas o charlas sobre datos y educación.
+
 😄 Mis pronombres son [tus pronombres].
+
 ⚡ Dato curioso: Cuando no estoy inmerso en datos o enseñando, me encanta dedicar mi tiempo libre a dibujar retratos realistas.
 
 <!--
