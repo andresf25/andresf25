@@ -1,41 +1,53 @@
-👋 ¡Hola! Soy Andrés González, un apasionado ingeniero de datos y educador, ¡y me encanta dibujar retratos en mi tiempo libre! Aquí tienes un vistazo rápido a quién soy:
+## Perfil de Liderazgo en Ingeniería de Datos
 
-🔭 Actualmente estoy trabajando en proyectos de ingeniería de datos para optimizar el flujo de información en diferentes industrias.
+### Nombre: Juan Pérez
 
-🌱 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades como ingeniero de datos y educador.
+### Cargo: Líder de Ingeniería de Datos
 
-👯 Estoy buscando colaborar en proyectos relacionados con análisis de datos, visualización y educación en tecnología.
+---
 
-💬 Pregúntame sobre técnicas de procesamiento de datos, herramientas de visualización o cualquier cosa relacionada con la enseñanza de la ciencia de datos.
+### Breve Descripción
+Soy un apasionado de la **ingeniería de datos** y cuento con más de **5 años de experiencia** en el área. Me encanta transformar datos en información útil y, a su vez, en decisiones estratégicas para las empresas. Me considero un solucionador de problemas nato y disfruto trabajando en equipo para alcanzar objetivos ambiciosos.
 
-📫 Puedes contactarme a través de [tu correo electrónico] para colaboraciones, consultas o charlas sobre datos y educación.
+---
 
-### Herramientas en las que me destaco:
-![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
-![React](https://img.shields.io/badge/Framework-React-blue)
-![Jira](https://img.shields.io/badge/Agile-Jira-green)
+### Habilidades Técnicas
 
-⚡ Dato curioso: Cuando no estoy inmerso en datos o enseñando, me encanta dedicar mi tiempo libre a dibujar retratos realistas.
+- **SQL**: Dominio en la gestión y consulta de bases de datos. Sé cómo optimizar consultas para mejorar la eficiencia de acceso a los datos.
+  
+- **Python**: Amplia experiencia en scripting y análisis de datos. Utilizo bibliotecas como Pandas y NumPy para manipular datos de forma efectiva.
+  
+- **Apache Spark**: Experiencia en el procesamiento de grandes volúmenes de datos en tiempo real. He implementado soluciones de análisis que permiten a las empresas aprovechar sus datos rápidamente.
 
-<!--
-**andresf25/andresf25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Experiencia Profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Compañía ABC** (2020 - Presente)
+  - Lideré un equipo para implementar soluciones de análisis de datos utilizando **Spark** y **SQL**.
+  - Desarrollé scripts en **Python** para automatizar procesos de ETL (extracción, transformación y carga).
 
-### GitHub Stats
+- **Compañía XYZ** (2017 - 2020)
+  - Trabajé con equipos multidisciplinarios para combinar datos de diferentes fuentes y crear dashboards interactivos para la toma de decisiones.
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+---
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andresf25&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Andres')
+### Educación
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
+- **Máster en Ciencia de Datos** - Universidad de Tecnología (2016)
+- **Ingeniería en Sistemas Computacionales** - Universidad ABC (2015)
+
+---
+
+### Intereses Personales
+Disfruto de los desafíos que me presenta la ingeniería de datos. Fuera del trabajo, me gusta asistir a conferencias de tecnología, leer sobre nuevas tendencias en análisis de datos y participar en hackathons.
+
+---
+
+### Contacto
+- **Email**: juan.perez@email.com
+- **LinkedIn**: [linkedin.com/in/juanperez](https://linkedin.com/in/juanperez)
+
+--- 
+
+¡Estoy listo para llevar la ingeniería de datos a un nuevo nivel y afrontar cualquier reto que venga!
