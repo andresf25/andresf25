@@ -1,6 +1,6 @@
 ## Perfil de Liderazgo en Ingeniería de Datos
 
-### Nombre: Juan Pérez
+### Nombre: Andrés Gonzalez
 
 ### Cargo: Líder de Ingeniería de Datos
 
